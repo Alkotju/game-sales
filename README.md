@@ -19,7 +19,7 @@ This repository contains a Jupyter Notebook for analyzing video game sales data.
 
 ## Requirements
 To run the notebook, ensure you have:
-- Python 3.7 or higher
+- Python 3.13.0 or higher
 - Jupyter Notebook
 - The following Python libraries:
   - pandas
@@ -96,7 +96,7 @@ If you have any questions or issues, please create an issue in this repository o
 
 ## Необходимые компоненты
 Для запуска убедитесь, что у вас установлено:
-- Python 3.7 или выше
+- Python 3.13.0 или выше
 - Jupyter Notebook
 - Необходимые библиотеки Python:
   - pandas
